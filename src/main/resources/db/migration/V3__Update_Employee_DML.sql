@@ -1,0 +1,1 @@
+update Employee set city='Nigdi' where code=1;

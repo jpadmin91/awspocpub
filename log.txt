@@ -1,0 +1,28 @@
+D:\sonar-runner-2.4\bin\..
+SonarQube Runner 2.4
+Java 1.8.0 Oracle Corporation (64-bit)
+Windows 8 6.2 amd64
+SONAR_RUNNER_OPTS="-Xmx3096m"
+INFO: Error stacktraces are turned on.
+INFO: Runner configuration file: D:\sonar-runner-2.4\bin\..\conf\sonar-runner.properties
+INFO: Project configuration file: C:\Users\prakashsinhab\Desktop\12810\81_EMS_DB\ems-db\sonar-project.properties
+INFO: Default locale: "en_US", source code encoding: "windows-1252" (analysis is platform dependent)
+INFO: Work directory: C:\Users\prakashsinhab\Desktop\12810\81_EMS_DB\ems-db\.\.sonar
+INFO: SonarQube Server 4.3.3
+14:59:35.386 INFO  - Load batch settings
+14:59:35.605 INFO  - User cache: C:\Users\prakashsinhab\.sonar\cache
+14:59:35.621 INFO  - Install plugins
+14:59:35.668 INFO  - Checkmarx plugin loaded
+14:59:35.683 INFO  - Install JDBC driver
+14:59:35.699 INFO  - Create JDBC datasource for jdbc:mysql://localhost:3306/sonar4_3?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true
+14:59:36.891 INFO  - Initializing Hibernate
+14:59:38.936 INFO  - Load project settings
+14:59:39.093 INFO  - Apply project exclusions
+14:59:39.389 INFO  - -------------  Scan EMS_Sprint2.1
+14:59:39.405 INFO  - Load module settings
+INFO: ------------------------------------------------------------------------
+INFO: EXECUTION FAILURE
+INFO: ------------------------------------------------------------------------
+Total time: 5.269s
+Final Memory: 10M/161M
+INFO: ------------------------------------------------------------------------
