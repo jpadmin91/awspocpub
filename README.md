@@ -2,7 +2,7 @@
 
 
 #Steps to run application
-
+#Added
 1.Execute script DDL.sql (\src\main\resources\DDL.sql)
 
 2.Change jdbc.properties file according to DB (\src\main\webapp\WEB-INF\jdbc.properties)

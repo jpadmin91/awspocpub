@@ -1,0 +1,5 @@
+projectKey=1803_MAXVIVA
+serverUrl=http://sonar.cybage.com
+dashboardUrl=http://sonar.cybage.com/dashboard/index/1803_MAXVIVA
+ceTaskId=AVt_x79lBNZwzQ6DhHUu
+ceTaskUrl=http://sonar.cybage.com/api/ce/task?id=AVt_x79lBNZwzQ6DhHUu
